@@ -12,7 +12,7 @@ const transformations = [
         before: "/images/before 1.jpg.jpeg",
         after: "/images/after 1.jpg.jpeg",
         labelBefore: "Pre-Clinical",
-        labelAfter: "Micro-Restored"
+        labelAfter: "Micro-Restore"
     },
 ];
 
