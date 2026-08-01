@@ -14,26 +14,6 @@ const transformations = [
         labelBefore: "Pre-Clinical",
         labelAfter: "Micro-Restored"
     },
-    {
-        id: 2,
-        title: "Quantum Whitening",
-        category: "LASER THERAPY",
-        description: "Removing years of deep-set stains using targeted laser activation for 8+ shades of improvement.",
-        before: "/images/before 2.jpg",
-        after: "/images/after 2.jpg",
-        labelBefore: "Baseline",
-        labelAfter: "Laser Polished"
-    },
-    {
-        id: 3,
-        title: "Structural Alignment",
-        category: "CLEAR ALIGNERS",
-        description: "Digital tooth movement using invisible aligners to correct crowding and optimize functional bite.",
-        before: "/images/before 3.jpg",
-        after: "/images/after 3.jpg",
-        labelBefore: "Initial State",
-        labelAfter: "Final Smile"
-    }
 ];
 
 export const TransformationSlider = () => {
